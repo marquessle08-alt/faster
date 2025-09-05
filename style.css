@@ -163,7 +163,7 @@
     color: orangered;
     font-weight: bolder;
     margin-top: 3vw;
-    
+
 }
 
 #latest-blog {
@@ -291,4 +291,30 @@
 .text-container a {
     margin-left: 1.5vw;
     color: orangered;
+}
+
+#dados{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#Get h4{
+    color: orangered;
+    font-size: 12px;
+}
+
+.numeros h2{
+    color: orangered;
+
+}
+
+.numeros{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#bixo{
+    width: 50vw;
 }
